@@ -1,0 +1,14 @@
+{
+  "name": "tamper-monkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "nodemon --watch src/script.js --exec \"node tools/update.js && echo updated version\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
