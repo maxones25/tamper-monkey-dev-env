@@ -1,1 +1,1 @@
-{"name":"My Tampermonkey Script","description":"","namespace":"http://example.com/","author":"Max Stock","version":"0.48","match":["*://*.youtube.com/*"],"grant":["GM_addStyle","GM_setValue"]}
+{"name":"My Tampermonkey Script","description":"","namespace":"http://example.com/","author":"Max Stock","version":"0.51","match":["*://*.youtube.com/*"],"grant":["GM_addStyle","GM_setValue"]}
